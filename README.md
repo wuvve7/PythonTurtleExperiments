@@ -19,13 +19,13 @@ A fun race game where **4 turtles** race towards the finish line. The turtles mo
 - The winning turtle's color is printed in the console.
  ### 2. Colorful Half Circles using Turtle Graphics
 This project uses Python's **Turtle** library to draw a series of **7 colorful half circles** arranged in a sequence. Each half circle is progressively larger than the previous one, and each is filled with a different color from the **rainbow**.
-## Key Features:
+#### Key Features:
 - Draws **7 half circles** of increasing size.
 - Each half circle is filled with a different **rainbow color**.
 - Uses **Turtle graphics** to create an interactive, visually attractive design.
 - Demonstrates the power of **loops** and **basic Turtle commands** for creating dynamic graphics.
 
-## How It Works:
+#### How It Works:
 1. The project uses a loop to draw **7 half circles**.
 2. Each half circle is drawn **larger** than the previous one.
 3. After drawing each half circle, the turtle moves to a new position to ensure the circles do not overlap.
